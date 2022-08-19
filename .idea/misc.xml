@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/vntlibe/LayoutsClass/app/src/main/res/drawable/ic_menu_camera.xml" value="0.108" />
+        <entry key="..\:/Users/vntlibe/LayoutsClass/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.108" />
+        <entry key="..\:/Users/vntlibe/LayoutsClass/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.108" />
+        <entry key="..\:/Users/vntlibe/LayoutsClass/app/src/main/res/drawable/side_nav_bar.xml" value="0.108" />
         <entry key="..\:/Users/vntlibe/LayoutsClass/app/src/main/res/layout/activity_main.xml" value="0.24444444444444444" />
         <entry key="..\:/Users/vntlibe/LayoutsClass/app/src/main/res/layout/content_main.xml" value="0.1703125" />
         <entry key="..\:/Users/vntlibe/LayoutsClass/app/src/main/res/layout/fragment_scrolling.xml" value="0.2" />
